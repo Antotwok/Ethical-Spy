@@ -6,7 +6,7 @@
 Control your Windows computer via Telegram! Capture screens, manage files, encrypt data, access system info, and more with simple chat commands. Remote management made easy!"
 
 
-<a href="https://ibb.co/Ctnfb5r"><img src="https://i.ibb.co/thb9qMd/spy.jpg" alt="spy" border="0"></a>
+
 
 
 ## How to use ⚙️
